@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.86.202.88:8081/repository/javaproject-snapshots/</url>
+	      <url>http://52.207.249.125:8081/repository/mercedes-project/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
