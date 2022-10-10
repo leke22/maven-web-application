@@ -96,19 +96,19 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.207.249.125:8081/repository/mercedes-releases/</url>
+	      <url>http://44.210.142.79:8081/repository/sam21-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.207.249.125:8081/repository/mercedes-snapshot/</url>
+	      <url>http://44.210.142.79:8081/repository/sam21-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
 	<build>
-		<finalName>mercedes</finalName>
+		<finalName>sam21</finalName>
 		
 		<plugins>
 			<plugin>
